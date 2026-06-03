@@ -1,0 +1,14 @@
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\bin\Debug\net10.0\..exe
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\bin\Debug\net10.0\..deps.json
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\bin\Debug\net10.0\..runtimeconfig.json
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\bin\Debug\net10.0\..dll
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\bin\Debug\net10.0\..pdb
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\obj\Debug\net10.0\..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\obj\Debug\net10.0\..AssemblyInfoInputs.cache
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\obj\Debug\net10.0\..AssemblyInfo.cs
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\obj\Debug\net10.0\..csproj.CoreCompileInputs.cache
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\obj\Debug\net10.0\..dll
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\obj\Debug\net10.0\refint\..dll
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\obj\Debug\net10.0\..pdb
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\obj\Debug\net10.0\..genruntimeconfig.cache
+C:\Users\msine\OneDrive\Desktop\C#_Learning\If_Else_Problem_Solving\obj\Debug\net10.0\ref\..dll
