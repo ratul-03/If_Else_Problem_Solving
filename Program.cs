@@ -6,7 +6,7 @@ namespace ProblemSolving
   {
     static void Main(string[] args)
     {
-      Problem01.Solve();
+      Problem03.Solve();
     }
   }
 }
