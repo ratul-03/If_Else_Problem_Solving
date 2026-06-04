@@ -33,18 +33,65 @@ namespace ProblemSolving.Problems
         if (units > 0 && units <= 100)
         {
           electricityBill = units * 5;
-          
+
           if (userAge > 60)
           {
             specialDiscount = electricityBill * (5m / 100);
             Console.WriteLine($"Your special discount is {specialDiscount} tk");
           }
         }
-        totalBill = electricityBill - specialDiscount;
-        Console.WriteLine($"Your name is ${userName}");
+
+        if (units > 100 && units <= 300)
+        {
+          electricityBill = units * 8;
+
+          if (userAge > 60)
+          {
+            specialDiscount = electricityBill * (5m / 100);
+            Console.WriteLine($"Your special discount is {specialDiscount} tk");
+          }
+        }
+
+        if (units > 300 && units <= 600)
+        {
+          electricityBill = units * 10;
+
+          if (userAge > 60)
+          {
+            specialDiscount = electricityBill * (5m / 100);
+            Console.WriteLine($"Your special discount is {specialDiscount} tk");
+          }
+
+          if (electricityBill > 5000)
+          {
+            subCharge = electricityBill * (10m / 100);
+            Console.WriteLine($"Your subcharge is {subCharge} tk");
+          }
+        }
+
+        if (units > 600)
+        {
+          electricityBill = units * 12;
+
+          if (userAge > 60)
+          {
+            specialDiscount = electricityBill * (5m / 100);
+            Console.WriteLine($"Your special discount is {specialDiscount} tk");
+          }
+
+          if (electricityBill > 5000)
+          {
+            subCharge = electricityBill * (15m / 100);
+            // Console.WriteLine($"Your subcharge is {subCharge} tk");
+          }
+        }
+
+        totalBill = electricityBill+ subCharge - specialDiscount;
+        Console.WriteLine($"Your name is {userName}");
         Console.WriteLine($"Your age is {userAge}");
         Console.WriteLine($"You have consumed {units} units");
         Console.WriteLine($"Your original bill is {electricityBill} tk");
+        Console.WriteLine($"Your subcharge is {subCharge} tk");
         Console.WriteLine($"Senior Citizen Discount {specialDiscount} tk");
         Console.WriteLine($"Your total bill is {totalBill}");
       }
